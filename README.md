@@ -1,2 +1,2 @@
-# blocking-programming-vs-non-blocking-programming
+# Readme
 A comparison between Blocking Programming and Non-Blocking Programming.
